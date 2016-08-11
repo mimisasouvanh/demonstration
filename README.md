@@ -21,7 +21,6 @@ _Italics_
 
 Blah blah blah blah [www.google.com](http://www.google.com)
 
-[test](http://www.youtube.com/)
 
                                  [![Title: images/image1470955317486.Jpeg](https://raw.githubusercontent.com/mimisasouvanh/demonstration/master/images/image1470955317486.Jpeg)](https://raw.githubusercontent.com/mimisasouvanh/demonstration/master/images/image1470955317486.Jpeg)
 
@@ -33,12 +32,6 @@ Blah blah blah blah [www.google.com](http://www.google.com)
 4.  You
 5.  Me
 
-
-<div>
-
-<div>
-
-<div>
 
 *   ItItem1
 *   Item2
