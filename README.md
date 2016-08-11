@@ -5,9 +5,6 @@ This is a new paragraph with bold, _italics_, <u>underline</u>.
 
 You you you you you
 
-1.  Item1
-2.  Item2
-
 Here is another list
 
 <div>
