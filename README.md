@@ -9,11 +9,6 @@ Again
 
 <div>
 
-| One | Two | Three | Four | five |
-| --- | --- | --- | --- | --- |
-| Six | Seven | Eight | Nine | Ten |
-| Eleven | Twelve | Thirteen | Fourteen | fifteen |
-
 Second list
 
 <div>
