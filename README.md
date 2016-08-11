@@ -7,8 +7,9 @@ Blah blah blah
 
 Again
 
-```js
+```javascript
 var code;
+
 function...
 ```
 
