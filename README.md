@@ -7,7 +7,10 @@ Blah blah blah
 
 Again
 
-`var code;`
+```js
+var code;
+function...
+```
 
 <div>
 
