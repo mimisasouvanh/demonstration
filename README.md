@@ -7,9 +7,7 @@ Blah blah blah
 
 Again
 
-```javascript
-var code;
-```
+`var code;`
 
 <div>
 
