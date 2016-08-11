@@ -3,7 +3,17 @@
 
 This is a new paragraph with bold, _italics_, <u>underline</u>.
 
+*   Item1
+*   Item2
+*   Item3
+
 You you you you you
+
+1.  Item1
+2.  Item2
+3.  Item3
+
+Hello
 
 Here is another list
 
