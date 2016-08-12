@@ -21,3 +21,13 @@ Follow these guidelines for chart titles:
 *   Use sans-serif typefaces with large counters.
 
 The following examples show serif and sans-serif typefaces used in chart titles. Notice how the scale contrast and effective use of white space create a strong visual hierarchy.
+
+### Axis labels
+
+Make your axis labels dark enough to read clearly, with adequate contrast ratios between the text and background colors. Make sure that they are not so dark that they compete with data ink.
+
+Light grays are most effective for axis labels. If you’re using Fabric, see the [Neutral Colors palette](http://odux/fabric/?page=features).
+
+### Data ink
+
+The pixels that represent the actual data in a chart are referred to as data ink. This should be the central focus of the visualization. Avoid the use of drop shadows, heavy outlines, or unnecessary design elements that distort or compete with the data. Use gradients only when data values are tied to color values. Avoid three-dimensional charts unless a measurable, objective value is bound to a third dimension.
