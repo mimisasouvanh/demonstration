@@ -67,3 +67,7 @@ Make sure that your legends enhance the data ink and do not compete with it. Pla
 ·<span></span> On the upper right side of the plot area, if all legend items do not fit above the chart, and make it scrollable, if necessary.
 
 To optimize for readability and accessibility, map legend markers to the relevant chart shape. For example, use circle legend markers for scatter plot and bubble chart legends. Use line segment legend markers for line charts.
+
+### Data labels and tooltips
+
+Ensure that data labels and tooltips have adequate white space and type variation. Use algorithms to minimize occlusion and collision. For example, a tooltip might surface to the right of a data point by default, but surface to the left if right edges are detected.
