@@ -31,3 +31,15 @@ Light grays are most effective for axis labels. If you’re using Fabric, see th
 ### Data ink
 
 The pixels that represent the actual data in a chart are referred to as data ink. This should be the central focus of the visualization. Avoid the use of drop shadows, heavy outlines, or unnecessary design elements that distort or compete with the data. Use gradients only when data values are tied to color values. Avoid three-dimensional charts unless a measurable, objective value is bound to a third dimension.
+
+### Color
+
+Choose colors that follow operating system or application themes rather than hardcoded colors. At the same time, make sure that the colors you apply do not distort the data. Misuse of color in data visualizations can result in data distortion and incorrect reading of information.
+
+For best practices for use of color in data visualizations, see the following:
+
+[Why rainbow colors aren't the best option for data visualizations](http://www.poynter.org/2013/why-rainbow-colors-arent-always-the-best-options-for-data-visualizations/224413/)
+
+[Color Brewer 2.0: Color Advice for Cartography](http://colorbrewer2.org/)
+
+[I Want Hue](http://tools.medialab.sciences-po.fr/iwanthue/)
