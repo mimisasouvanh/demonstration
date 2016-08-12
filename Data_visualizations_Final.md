@@ -51,3 +51,19 @@ Gridlines are often necessary for accurately reading a chart, but should be pres
 Light grays are most effective for gridlines. If you’re using Fabric, see the [Neutral Colors palette](http://odux/fabric/?page=features).
 
 The following image shows a data visualization with gridlines.
+
+### Legends
+
+Add legends if necessary to:
+
+·<span></span> Distinguish between series
+
+·<span></span> Present scale or value changes
+
+Make sure that your legends enhance the data ink and do not compete with it. Place legends:
+
+·<span></span> Flush left above the plot area by default, if all legend items fit above the chart.
+
+·<span></span> On the upper right side of the plot area, if all legend items do not fit above the chart, and make it scrollable, if necessary.
+
+To optimize for readability and accessibility, map legend markers to the relevant chart shape. For example, use circle legend markers for scatter plot and bubble chart legends. Use line segment legend markers for line charts.
