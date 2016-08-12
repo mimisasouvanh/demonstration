@@ -145,3 +145,11 @@ Stage one thing at a time. 
 ·<span></span> Make all interactive elements, such as push buttons or pick lists, accessible from a keyboard.
 
 ·<span></span> Send accessibility events to screen readers to announce focus changes, tooltips, and so on.
+
+## Additional resources (use dev.office.com links here, integrate external inline).
+
+·<span></span> [Data + Design: A Simple Introduction to Preparing and Visualizing Information](https://infoactive.co/data-design/titlepage01.html)
+
+·<span></span> [The Five Best Libraries for Building Data Visualizations](http://www.fastcompany.com/3029760/the-five-best-libraries-for-building-data-vizualizations)
+
+·<span></span> [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi)
