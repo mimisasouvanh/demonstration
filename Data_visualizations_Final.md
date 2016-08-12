@@ -95,3 +95,53 @@ The Office Design team created the following set of design principles, which we 
 For more information about how to design user-friendly interactive data visualizations, see [UI Tenets and Traps](http://uitraps.com/).
 
 ## Motion design principles
+
+·<span></span> Motion follows stimulus. Visual elements should move in the same direction at the same rate. This applies to:
+
+·<span></span> Chart creation
+
+·<span></span> Transition from one chart type to another chart type
+
+·<span></span> Filtering
+
+·<span></span> Sorting
+
+·<span></span> Adding or subtracting data
+
+·<span></span> Brushing or slicing data
+
+ *   Resizing a chart
+
+·<span></span> Create a perception of causality. When staging animations:
+
+Stage one thing at a time. 
+
+·<span></span> Stage changes to axes before changes to data ink.
+
+·<span></span> Stage and animate objects as a group if they are moving at the same speed in the same direction.
+
+ *   Stage data elements in groups of no more than 4-5 objects. Viewers have difficulty tracking more than 4-5 objects independently
+
+·<span></span> Motion adds meaning.
+
+·<span></span> Animations increase user comprehension of changes to the data, provide context, and act as a non-verbal annotation layer.
+
+·<span></span> Motion should occur in a meaningful coordinate space of the visualization.
+
+·<span></span> Tailor the animation to the visual. 
+
+ *   Avoid gratuitous animations.
+
+·<span></span> Motion follows data.
+
+·<span></span> Preserve data mappings. If an area is tied to a measure, maintain that area in transition.
+
+·<span></span> Maintain a consistent animation design language. Where possible, map data visualization animation to existing Office motion design language. Use similar animations for similar chart types.
+
+## Accessibility in data visualizations
+
+·<span></span> Do not use color as the only way to communicate information. People who are color blind will not be able to interpret the results. Use shape, size and texture in addition to color when possible to communicate information.
+
+·<span></span> Make all interactive elements, such as push buttons or pick lists, accessible from a keyboard.
+
+·<span></span> Send accessibility events to screen readers to announce focus changes, tooltips, and so on.
