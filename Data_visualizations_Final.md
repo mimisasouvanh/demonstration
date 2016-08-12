@@ -71,3 +71,27 @@ To optimize for readability and accessibility, map legend markers to the relevan
 ### Data labels and tooltips
 
 Ensure that data labels and tooltips have adequate white space and type variation. Use algorithms to minimize occlusion and collision. For example, a tooltip might surface to the right of a data point by default, but surface to the left if right edges are detected.
+
+## Design Principles
+
+The Office Design team created the following set of design principles, which we use when designing new data visualizations for the Office product suite.
+
+## Visual design principles
+
+·<span></span> Visualizations should honor and enhance the data, making it easy to understand. Highlight the data, adding supporting elements only as needed to provide context. Avoid unnecessary embellishments (drop shadows, outlines, etc), chart junk, or data distortion.
+
+·<span></span> Visualizations should encourage exploration by providing rich visual feedback. Use well-established interaction patterns, interface controls, and clear system feedback.
+
+·<span></span> Embody time-honored design principles. Use established typographic and visual communication design principles to enhance form, readability, and meaning.
+
+## Interaction design principles
+
+·<span></span> Design with affordances that allow for exploration.
+
+·<span></span> Allow for direct interactions with objects that reveal new insights (sorting via drag, for example).
+
+·<span></span> Use simple, direct, familiar interaction models.
+
+For more information about how to design user-friendly interactive data visualizations, see [UI Tenets and Traps](http://uitraps.com/).
+
+## Motion design principles
