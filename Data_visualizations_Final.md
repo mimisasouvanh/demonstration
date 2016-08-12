@@ -10,3 +10,14 @@ We recommend that you use [Office UI Fabric](http://odux/fabric/?page=overview) 
 ## Data visualization elements
 
 Data visualizations share a general framework and common visual and interactive elements, including titles, labels, and data plots, as shown in the following figure.
+
+### Chart titles
+
+Follow these guidelines for chart titles:
+
+*   Make your chart titles easily readable. Position them to create a clear visual hierarchy in relation to the rest of the chart.
+*   In general, use sentence capitalization (capitalize the first word). To create contrast or to reinforce hierarchies, you can use all caps, but all caps should be used sparingly.
+*   Incorporate the [Office UI Fabric type ramp](http://odux/fabric/?page=features) to make your charts consistent with the Office UI, which uses Segoe. You can also use a different typeface to differentiate chart content from the UI.
+*   Use sans-serif typefaces with large counters.
+
+The following examples show serif and sans-serif typefaces used in chart titles. Notice how the scale contrast and effective use of white space create a strong visual hierarchy.
