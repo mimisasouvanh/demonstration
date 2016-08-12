@@ -43,3 +43,11 @@ For best practices for use of color in data visualizations, see the following:
 [Color Brewer 2.0: Color Advice for Cartography](http://colorbrewer2.org/)
 
 [I Want Hue](http://tools.medialab.sciences-po.fr/iwanthue/)
+
+### Gridlines
+
+Gridlines are often necessary for accurately reading a chart, but should be presented as a secondary visual element, enhancing the data ink, not competing with it. Make static gridlines thin and light, unless they are designed specifically for high contrast. You can also use interaction to create dynamic, just-in-time gridlines that appear in context when a user interacts with a chart.
+
+Light grays are most effective for gridlines. If you’re using Fabric, see the [Neutral Colors palette](http://odux/fabric/?page=features).
+
+The following image shows a data visualization with gridlines.
